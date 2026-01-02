@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I’m Collins Nwammuo</h1>
-  <h3>Computer Engineer | Laboratory Technologist | SOC Analyst in Training</h3>
+  <h3>Computer Engineer | SOC Analyst | Engineering Technologist</h3>
 
   <p>
     <img src="https://img.shields.io/badge/Cybersecurity-Blue%20Team%20%7C%20SOC-0A66C2?style=for-the-badge&logo=shield&logoColor=white" />
@@ -24,7 +24,7 @@
 ---
 
 ## 😎 About Me
-[cite_start]👋 I’m **Collins**, a Computer Engineering graduate and **Laboratory Technologist** at [Chukwuemeka Odumegwu Ojukwu University (COOU)](https://coou.edu.ng)[cite: 30]. I specialize in bridging the gap between hardware (IoT/Embedded) and secure network infrastructure.
+👋 I’m **Collins**, a Computer Engineering graduate and ** Engineering Technologist** at [Chukwuemeka Odumegwu Ojukwu University (COOU)](https://coou.edu.ng)[cite: 30]. I specialize in bridging the gap between hardware (IoT/Embedded) and secure network infrastructure.
 
 [cite_start]My work focuses on technological solutions for **developing economies**, from optimizing **VANET routing protocols** [cite: 78] to designing cost-effective **enterprise networks**.
 
