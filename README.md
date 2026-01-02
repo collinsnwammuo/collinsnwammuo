@@ -1,75 +1,123 @@
-<div align="center">
-  <h1>😎 About Me 😎</h1>
-  <h3>👋 I’m Collins Tochukwu Nwammuo</h3>
-</div>
+.
 
-<br/>
+👋 Hi, I’m Collins Nwammuo
+<p align="center"> <img src="https://img.shields.io/badge/Cybersecurity-SOC%20%7C%20Blue%20Team-0A66C2?style=for-the-badge" /> <img src="https://img.shields.io/badge/Networking-Enterprise%20%7C%20VLANs-2E8B57?style=for-the-badge" /> <img src="https://img.shields.io/badge/IoT-Education%20%7C%20Research-8B0000?style=for-the-badge" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/collins-nwammuo-645482248/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/collinsnwammuo" target="_blank"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-4CAF50?style=for-the-badge" /> </a> <a href="https://scholar.google.com" target="_blank"> <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /> </a> </p>
+😎 About Me
 
-🎓 **Computer Engineering Graduate** from the University of Uyo.
-🔬 Currently a **Laboratory Technologist** at Chukwuemeka Odumegwu Ojukwu University (COOU).
-🚀 Passionate about **IoT**, **Embedded Systems**, and **Vehicular Ad Hoc Networks (VANETs)**.
-🏆 Certified in Cybersecurity (ISC2), Azure Fundamentals, and Cisco Networking.
-📖 Published author on **VANET Routing Protocols** and **IoT in Education**.
+👋 I’m Collins, a Computer Engineering graduate, Laboratory Technologist, and SOC-focused cybersecurity practitioner from Nigeria.
 
-<br/>
+🎓 B.Eng. Computer Engineering — University of Uyo
+🏫 Laboratory Technologist — Chukwuemeka Odumegwu Ojukwu University
+🧑‍🏫 IEEE Student Advisor
+🌍 Research & practice focused on developing economies
 
-## 🔬 Research & Technical Focus
+I specialize in network security, SOC operations, and applied networking, with strong interests in VLAN segmentation, SIEM, incident detection, and secure enterprise design.
 
-* **Telecommunications:** Evaluating routing protocols (AODV, DSR, OLSR) for Vehicle-to-Vehicle (V2V) communication.
-* **Internet of Things (IoT):** Developing embedded instrumentation systems and biomedical sensors (e.g., Heart Rate Monitors).
-* **Network Security:** Firewall implementation, VPNs, and protecting critical infrastructure.
-* **Data Analysis:** Visualizing engineering data using Python, SQL, and Power BI.
+🎯 Career Objective
 
-<br/>
+To transition into a Security Operations Center (SOC) role (Tier 1 / Junior Analyst), leveraging strong foundations in networking, traffic analysis, and security monitoring to detect, investigate, and respond to cyber threats.
 
-## 🛠️ Current & Past Projects
+🧠 Research & Academic Focus
 
-### 📡 Network Engineering
-* [**VLAN Segmentation & Inter-VLAN Routing**](https://github.com/collinsnwammuo/Cisco-Packet-Tracer-Projects) – Enterprise network design separating HR and Sales depts using Cisco Packet Tracer.
-* **VANET Protocol Evaluation** – A simulation study optimizing AODV, DSR, and OLSR protocols using SUMO & OMNET++.
+IoT in Engineering Education
 
-### ⚡ Embedded Systems
-* **Digital Heart Rate Monitor** – Designed a fingertip-based biometric sensor using Arduino and LCD display technology.
-* **Nano Banana Pro Guide** – A creative documentation series on getting started with the Nano Banana Pro microcontroller.
+Practical instrumentation systems for entrepreneurial skill development
 
-<br/>
+Vehicular Ad Hoc Networks (VANETs)
 
-## 🏅 Certifications
+Routing protocol evaluation (AODV, DSR, OLSR, AOMDV)
 
-| Issuer | Certification | Year |
-| :--- | :--- | :--- |
-| **ISC2** | Certified in Cybersecurity (CC) | 2025 |
-| **Microsoft** | Azure Fundamentals | 2025 |
-| **Cisco** | Junior Cybersecurity Analyst | 2025 |
-| **Huawei** | HCIA Security | 2024 |
-| **Harvard** | CS50x: Computer Science | 2023 |
+Enterprise Networking for Developing Economies
 
-<br/>
+Scalable, cost-effective, and secure network architectures
 
-## 🐱 My Github Data
+📄 Publications
 
-<div align="center">
-  <a href="https://github.com/collinsnwammuo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=collinsnwammuo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9d1d9&icon_color=2bbc8a&bg_color=0d1117" alt="Collins' GitHub Stats" />
-  </a>
-  <br/>
-  <br/>
-  <a href="https://github.com/collinsnwammuo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinsnwammuo&hide=html&text_color=c9d1d9&title_color=ffffff&bg_color=0d1117&icon_color=2bbc8a&layout=compact" alt="Collins' Top Languages" />
-  </a>
-</div>
+IoT-based Instrumentation Systems for Enhancing Entrepreneurial Skills of Engineering Students (2024)
 
-<br/>
+Evaluation of AODV, DSR, and OLSR VANET Routing Protocols for V2V Implementation (2024)
 
-## 📊 Activity & Tools
+🛠️ Core Skills
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=collinsnwammuo&theme=github_dark" alt="Profile Details" />
-</div>
+Network Segmentation (VLANs, Subnetting)
 
-<br/>
+SOC Fundamentals & Blue Team Operations
 
----
-<div align="center">
-  <sub>Last Updated: January 2026 • 📍 Nigeria</sub>
-</div>
+SIEM Log Ingestion & Analysis
+
+Packet Tracer & Network Simulation
+
+Incident Detection & Traffic Analysis
+
+Embedded Systems & IoT
+
+Python, Bash, HTML, CSS, JavaScript
+
+🧪 Featured Projects
+🔹 Cisco Packet Tracer Labs
+
+Hands-on enterprise networking and security simulations.
+
+VLAN Segmentation & Inter-VLAN Routing
+
+Enterprise LAN Design
+
+Secure Departmental Network Isolation
+
+Routing & Subnetting Labs
+
+🔗 Repo:
+👉 https://github.com/collinsnwammuo/cisco-packet-tracer-projects
+
+🔹 Detection Lab (SOC Fundamentals)
+
+A simulated SIEM + IDS environment for threat detection and log analysis.
+
+Elastic Stack
+
+Zeek
+
+Suricata
+
+Attack simulation & telemetry generation
+
+🔗 Repo:
+👉 https://github.com/collinsnwammuo/detection-lab
+
+🔹 VANET Simulation Projects
+
+SUMO + NS-3 + NETANIM
+
+Routing protocol evaluation
+
+Developing economy transport solutions
+
+🧾 Certifications
+<p> <img src="https://img.shields.io/badge/HCIA_Security-Huawei-0066CC?style=for-the-badge&logo=huawei&logoColor=white" /> <img src="https://img.shields.io/badge/AZ--900-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Data_Analytics-Coursera-4285F4?style=for-the-badge&logo=google&logoColor=white" /> </p>
+🧑‍🏫 Professional Experience
+
+Laboratory Technologist — COOU (2023–Present)
+
+Practical engineering instruction
+
+Network & electronics lab facilitation
+
+Graduate Trainee (Embedded Systems) — ELDI (2022–2023)
+
+ICT Technician — NIMASA (2021–2022)
+
+🐱 GitHub Activity
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=collinsnwammuo&theme=onedark&row=1&no-frame=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=collinsnwammuo&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinsnwammuo&layout=compact&theme=tokyonight" /> </p>
+👀 Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=collinsnwammuo&style=for-the-badge&color=blue" /> </p>
+🤝 Let’s Connect
+
+I’m open to:
+
+SOC / Blue Team roles
+
+Networking & security collaboration
+
+Research and academic partnerships
+
+📩 Reach out via LinkedIn or GitHub
