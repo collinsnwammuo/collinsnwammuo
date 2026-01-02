@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I’m Collins Nwammuo</h1>
-  <h3>Computer Engineer | SOC Analyst | Engineering Technologist</h3>
+  <h3>Computer Engineer | Laboratory Technologist | SOC Analyst in Training</h3>
 
   <p>
     <img src="https://img.shields.io/badge/Cybersecurity-Blue%20Team%20%7C%20SOC-0A66C2?style=for-the-badge&logo=shield&logoColor=white" />
@@ -24,13 +24,13 @@
 ---
 
 ## 😎 About Me
-👋 I’m **Collins**, a Computer Engineering graduate and ** Engineering Technologist** at [Chukwuemeka Odumegwu Ojukwu University (COOU)](https://coou.edu.ng)[cite: 30]. I specialize in bridging the gap between hardware (IoT/Embedded) and secure network infrastructure.
+👋 I’m **Collins**, a Computer Engineering graduate and **Laboratory Technologist** at [Chukwuemeka Odumegwu Ojukwu University (COOU)](https://coou.edu.ng). I specialize in bridging the gap between hardware (IoT/Embedded) and secure network infrastructure.
 
-[cite_start]My work focuses on technological solutions for **developing economies**, from optimizing **VANET routing protocols** [cite: 78] to designing cost-effective **enterprise networks**.
+My work focuses on technological solutions for **developing economies**, from optimizing **VANET routing protocols** to designing cost-effective **enterprise networks**.
 
-* 🎓 **B.Eng. [cite_start]Computer Engineering** — University of Uyo [cite: 14]
-* 🏫 **Laboratory Technologist** — COOU (2023–Present) [cite: 31]
-* [cite_start]🧑‍🏫 **IEEE Student Advisor** — COOU Student Branch 
+* 🎓 **B.Eng. Computer Engineering** — University of Uyo
+* 🏫 **Laboratory Technologist** — COOU (2023–Present)
+* 🧑‍🏫 **IEEE Student Advisor** — COOU Student Branch
 
 ### 🎯 Career Objective
 To transition into a **Security Operations Center (SOC)** role, leveraging my background in network traffic analysis, packet simulation, and embedded security to detect and mitigate threats.
@@ -56,32 +56,32 @@ To transition into a **Security Operations Center (SOC)** role, leveraging my ba
 * **Outcome:** Segregated HR and Sales traffic to improve security and performance.
 
 ### 🔹 [Digital Heart Rate Monitor (Embedded Systems)](https://github.com/collinsnwammuo)
-[cite_start]*Design and implementation of a fingertip-based biometric sensor.* 
+*Design and implementation of a fingertip-based biometric sensor.*
 * **Tech:** Arduino Uno, LCD Display, Pulse Sensor.
 * **Outcome:** Created a low-cost medical diagnostic tool for resource-constrained environments.
 
 ### 🔹 **VANET Routing Protocol Evaluation**
-[cite_start]*Comparative analysis of AODV, DSR, and OLSR protocols.* [cite: 78]
+*Comparative analysis of AODV, DSR, and OLSR protocols.*
 * **Tech:** SUMO, NS-3, NETANIM.
 * **Focus:** Optimizing Vehicle-to-Vehicle (V2V) communication latency.
 
 ---
 
 ## 🧾 Certifications
-[cite_start]*Verified via [Credly](https://www.credly.com/users/collins-nwammuo)* 
+*Verified via [Credly](https://www.credly.com/users/collins-nwammuo)*
 
 | Issuer | Certification | Year |
 | :--- | :--- | :--- |
-| **ISC2** | [cite_start]Certified in Cybersecurity (CC) [cite: 102] | 2025 |
-| **Cisco** | [cite_start]Junior Cybersecurity Analyst [cite: 105] | 2025 |
-| **Microsoft** | [cite_start]Azure Fundamentals (AZ-900) [cite: 98] | 2025 |
-| **Huawei** | [cite_start]HCIA Security [cite: 111] | 2024 |
+| **ISC2** | Certified in Cybersecurity (CC) | 2025 |
+| **Cisco** | Junior Cybersecurity Analyst | 2025 |
+| **Microsoft** | Azure Fundamentals (AZ-900) | 2025 |
+| **Huawei** | HCIA Security | 2024 |
 
 ---
 
 ## 📄 Publications
-1.  **Nwammuo, C. T.**, et al. (2024). [cite_start]*"Evaluation of AODV, DSR, and OLSR VANET Routing Protocols for V2V Implementation: A Solution for Developing Economies."* [cite: 79]
-2.  Iloh, J.I & **Nwammuo, C.T** (2024). [cite_start]*"IoT-based instrumentation systems for enhancing entrepreneurial skills of engineering students."* [cite: 82]
+1.  **Nwammuo, C. T.**, et al. (2024). *"Evaluation of AODV, DSR, and OLSR VANET Routing Protocols for V2V Implementation: A Solution for Developing Economies."*
+2.  Iloh, J.I & **Nwammuo, C.T** (2024). *"IoT-based instrumentation systems for enhancing entrepreneurial skills of engineering students."*
 
 ---
 
