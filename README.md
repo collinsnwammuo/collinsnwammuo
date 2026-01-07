@@ -55,14 +55,14 @@ To transition into a **Security Operations Center (SOC)** role, leveraging my ba
 * **Tech:** VLANs, Trunking, Router-on-a-Stick, Inter-VLAN Routing.
 * **Outcome:** Segregated HR and Sales traffic to improve security and performance.
 
-### 🔹 [Digital Heart Rate Monitor (Embedded Systems)](https://github.com/collinsnwammuo)
+### 🔹 [Digital Heart Rate Monitor (Embedded Systems)](https://scholar.google.com/citations?hl=en&user=OCCrqIYAAAAJ)
 *Design and implementation of a fingertip-based biometric sensor.*
 * **Tech:** Arduino Uno, LCD Display, Pulse Sensor.
 * **Outcome:** Created a low-cost medical diagnostic tool for resource-constrained environments.
 
-### 🔹 **VANET Routing Protocol Evaluation**
+### 🔹 [VANET Routing Protocol Evaluation](https://scholar.google.com/citations?hl=en&user=OCCrqIYAAAAJ)
 *Comparative analysis of AODV, DSR, and OLSR protocols.*
-* **Tech:** SUMO, NS-3, NETANIM.
+* **Tech:** SUMO, OMNET++, VEINS.
 * **Focus:** Optimizing Vehicle-to-Vehicle (V2V) communication latency.
 
 ---
@@ -82,6 +82,7 @@ To transition into a **Security Operations Center (SOC)** role, leveraging my ba
 ## 📄 Publications
 1.  **Nwammuo, C. T.**, et al. (2024). *"Evaluation of AODV, DSR, and OLSR VANET Routing Protocols for V2V Implementation: A Solution for Developing Economies."*
 2.  Iloh, J.I & **Nwammuo, C.T** (2024). *"IoT-based instrumentation systems for enhancing entrepreneurial skills of engineering students."*
+3.  Nzeife, I.D., **Nwammuo, C.T**, et al. (2025). *"Load Optimization of a Single-Sided Electromagnetic Elevator."*
 
 ---
 
