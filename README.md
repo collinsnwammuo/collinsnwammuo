@@ -28,6 +28,7 @@
 
 My work focuses on technological solutions for **developing economies**, from optimizing **VANET routing protocols** to designing cost-effective **enterprise networks**.
 
+* 🎓 **M.Eng. Electrical/Electronic Engineering** — Chukwuemeka Odumegwu Ojukwu University
 * 🎓 **B.Eng. Computer Engineering** — University of Uyo
 * 🏫 **Laboratory Technologist** — COOU (2023–Present)
 * 🧑‍🏫 **IEEE Student Advisor** — COOU Student Branch
