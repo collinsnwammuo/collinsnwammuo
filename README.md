@@ -19,12 +19,7 @@
       <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
-  ### 🕹️ TryHackMe Progress
-<p align="center">
-  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME">
-    <img src="https://tryhackme-badges.vercel.app/api/badges?username=conwamc&theme=dark" alt="TryHackMe Stats" />
-  </a>
-</p>
+  
 </div>
 
 ---
@@ -98,6 +93,14 @@ To transition into a **Security Operations Center (SOC)** role, leveraging my ba
   <img src="https://github-readme-stats.vercel.app/api?username=collinsnwammuo&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinsnwammuo&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
+---
+## 🕹️ TryHackMe Progress
+<p align="center">
+  <a href="https://tryhackme.com/p/conwamc">
+    <img src="https://tryhackme-badges.vercel.app/api/badges?username=conwamc&theme=dark" alt="TryHackMe Stats" />
+  </a>
+</p>
 
 ---
 <div align="center">
