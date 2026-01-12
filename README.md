@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I’m Collins Nwammuo</h1>
-  <h3>Computer Engineer | Laboratory Technologist | SOC Analyst in Training</h3>
+  <h3>Computer Engineer | Laboratory Technologist | SOC Analyst in Training</h3>.
 
   <p>
     <img src="https://img.shields.io/badge/Cybersecurity-Blue%20Team%20%7C%20SOC-0A66C2?style=for-the-badge&logo=shield&logoColor=white" />
