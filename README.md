@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I’m Collins Nwammuo</h1>,
+  <h1>👋 Hi, I’m Collins Nwammuo</h1>
   <h3>Computer Engineer | Laboratory Technologist | SOC Analyst in Training</h3>.
 
   <p>
