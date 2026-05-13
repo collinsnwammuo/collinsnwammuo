@@ -76,6 +76,7 @@ To transition into a **Security Operations Center (SOC)** role, leveraging my ba
 | :--- | :--- | :--- |
 | **ISC2** | Certified in Cybersecurity (CC) | 2025 |
 | **Cisco** | Junior Cybersecurity Analyst | 2025 |
+| **Comptia** | Security+ | 2025 |
 | **Microsoft** | Azure Fundamentals (AZ-900) | 2025 |
 | **Huawei** | HCIA Security | 2024 |
 
